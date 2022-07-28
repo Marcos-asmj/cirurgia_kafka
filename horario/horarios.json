@@ -1,0 +1,40 @@
+{
+    "dias": [
+        {
+            "id": 1,
+            "dia": "Segunda",
+            "qtd_manha": 0,
+            "qtd_tarde": 0
+        },
+        {
+            "id": 2,
+            "dia": "Terca",
+            "qtd_manha": 0,
+            "qtd_tarde": 0
+        },
+        {
+            "id": 3,
+            "dia": "Quarta",
+            "qtd_manha": 0,
+            "qtd_tarde": 0
+        },
+        {
+            "id": 4,
+            "dia": "Quinta",
+            "qtd_manha": 0,
+            "qtd_tarde": 0
+        },
+        {
+            "id": 5,
+            "dia": "Sexta",
+            "qtd_manha": 0,
+            "qtd_tarde": 0
+        },
+        {
+            "id": 6,
+            "dia": "Sabado",
+            "qtd_manha": 0,
+            "qtd_tarde": 0
+        }
+    ]
+}

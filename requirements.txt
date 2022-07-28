@@ -1,0 +1,4 @@
+Flask
+faker
+kafka-python
+flask_apscheduler

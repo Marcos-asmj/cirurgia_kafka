@@ -1,0 +1,58 @@
+{
+    "quartos": [
+        {
+            "id": 1,
+            "Segunda": 0,
+            "Terca": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0,
+            "Sabado": 0
+        },
+        {
+            "id": 2,
+            "Segunda": 0,
+            "Terca": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0,
+            "Sabado": 0
+        },
+        {
+            "id": 3,
+            "Segunda": 0,
+            "Terca": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0,
+            "Sabado": 0
+        },
+        {
+            "id": 4,
+            "Segunda": 0,
+            "Terca": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0,
+            "Sabado": 0
+        },
+        {
+            "id": 5,
+            "Segunda": 0,
+            "Terca": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0,
+            "Sabado": 0
+        },
+        {
+            "id": 6,
+            "Segunda": 0,
+            "Terca": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0,
+            "Sabado": 0
+        }
+    ]
+}
